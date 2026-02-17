@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "歩み",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-17T02:24:41.921231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_歩み_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_歩み_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "AKKO",
+      "has_synced": false,
+      "path": "select/03_歩み_AKKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_歩み_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/05_歩み_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "RAM WIRE",
+      "has_synced": true,
+      "path": "select/06_歩み_RAM_WIRE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "歩み - Ayumi",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/07_歩み_-_Ayumi_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "GREEEEN",
+      "has_synced": true,
+      "path": "select/08_歩み_GREEEEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/09_歩み_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "歩み",
+      "artist": "Ram Wire",
+      "has_synced": false,
+      "path": "select/10_歩み_Ram_Wire.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歩み",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_歩み_GReeeeN.txt"
+    }
+  ]
+}
